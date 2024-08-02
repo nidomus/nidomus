@@ -13,7 +13,3 @@ Sou desenvolvedor com experiência em **Vue.js**, **Django** e **Python**. Atual
 - [E-mail](hbtf.oliveira42@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidomus&show_icons=true&theme=dracula" alt="estatísticas do GitHub">
-</p>
