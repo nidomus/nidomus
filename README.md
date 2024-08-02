@@ -9,7 +9,7 @@ Sou desenvolvedor com experiência em **Vue.js**, **Django** e **Python**. Atual
 
 
 ## Contato
-- [LinkedIn]([link-para-linkedin](https://www.linkedin.com/in/herbert-oliveira-a99022215/))
+- [LinkedIn](https://www.linkedin.com/in/herbert-oliveira-a99022215/)
 - [E-mail](hbtf.oliveira42@gmail.com)
 
 ---
