@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**nidomus/nidomus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor com experiência em **Vue.js**, **Django** e **Python**. Atualmente, estou cursando Licenciatura em Computação no IFBA, e tenho grande entusiasmo por ensino, visando me tornar um futuro professor.
 
-Here are some ideas to get you started:
+## Tecnologias e Ferramentas
+- Vue.js
+- Django
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Contato
+- [LinkedIn]([link-para-linkedin](https://www.linkedin.com/in/herbert-oliveira-a99022215/))
+- [E-mail](hbtf.oliveira42@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula" alt="estatísticas do GitHub">
+</p>
