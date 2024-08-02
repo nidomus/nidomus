@@ -15,5 +15,5 @@ Sou desenvolvedor com experiência em **Vue.js**, **Django** e **Python**. Atual
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula" alt="estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=nidomus&show_icons=true&theme=dracula" alt="estatísticas do GitHub">
 </p>
