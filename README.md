@@ -2,7 +2,7 @@
 
 ## Info
 
-Me chamo Herbert Oliveira. Atualmente moro em Porto Seguro-BA, Brasil e estou cursando Licenciatura em Computação no IFBA (6/8).Tenho grande entusiasmo por ensino, visando me tornar um futuro professor de programação.
+Me chamo Herbert Oliveira. Atualmente moro em Porto Seguro-BA, Brasil e estou cursando Licenciatura em Computação no IFBA (6/8). Tenho grande entusiasmo por ensino, visando me tornar um futuro professor de programação.
 
 ## Mais sobre
 
