@@ -6,7 +6,7 @@ Me chamo Herbert Oliveira. Atualmente moro em Porto Seguro-BA, Brasil e estou cu
 
 Bom, aqui você irá encontrar meus projetos pessoais de estudo. Gosto muito de um desafio, durante minha formação sempre tentei ir além do que era pedido nas disciplinas. Disso nasceram projetos interessantes, muitos deles voltados para criação de interfaces. Me tornei um entusiasta da biblioteca Tkinter do Python e pensa no desafio que é trabalhar com ela... 😅
 
-Atualmente estou tabalhando em um projeto de uma aplicação web de um Sudoku ([backend](https://github.com/nidomus/sudoku_generator_flask) + [frontend](https://github.com/nidomus/YASG)). Estou usando esse projeto para aprofundar meus conhecimentos na minha Stack. 
+Atualmente estou tabalhando na criação de um web app de Sudoku, um hobby que gosto muito. Estou usando esse projeto para aprofundar meus conhecimentos na minha Stack ([backend](https://github.com/nidomus/sudoku_generator_flask) + [frontend](https://github.com/nidomus/YASG)). 
 
 
 ## Mais sobre
