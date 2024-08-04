@@ -4,6 +4,9 @@
 
 Me chamo Herbert Oliveira. Atualmente moro em Porto Seguro-BA, Brasil e estou cursando Licenciatura em Computação no IFBA (6/8). Tenho grande entusiasmo por ensino, visando me tornar um futuro professor de programação.
 
+Bom, aqui você irá encontrar meus projetos pessoais de estudo. Gosto muito de um desafio, durante minha formação sempre tentei ir além do que era pedido nas disciplinas. Disso nasceram projetos interessantes, muitos deles voltados para criação de interfaces.
+
+
 ## Mais sobre
 
 * **Nome**: Herbert Fernandes de Oliveira
