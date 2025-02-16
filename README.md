@@ -14,7 +14,7 @@ Atualmente estou tabalhando na criação de um web app de Sudoku, um hobby que g
 * **Nome**: Herbert Fernandes de Oliveira
 * **Idade**: 23
 * **Stack**: Vue - Nuxt - Django - Python - Bulma CSS
-* **Cargo Atual**: Desenvolvedor
+* **Cargo Atual**: Desenvolvedor Full Stack
 
 ## Contatos
 
@@ -22,8 +22,7 @@ Atualmente estou tabalhando na criação de um web app de Sudoku, um hobby que g
 - [E-mail](hbtf.oliveira42@gmail.com)
 
 ## Curiosidades sobre mim
-* Sou "Fullstack" por necessidade em uma startup.
-* Estou me aventurando no universo Maker e de impressão 3D. Atualmente estou estudando sobre Fabricação Digital de próteses para membros superiores voltadas para pacientes com amputação parcial da Mão. Tenho um artigo submetido sobre minhas experiências (caso seja aceito e publicado eu volto aqui para compartilhar).
+* Estou me aventurando no universo Maker e de impressão 3D. Atualmente estou estudando sobre Fabricação Digital de próteses para membros superiores voltadas para pacientes com amputação parcial da Mão. Tenho um artigo submetido sobre minhas experiências ([Link do Artigo](https://www.proceedings.blucher.com.br/article-details/discussing-the-digital-manufacture-process-of-prostheses-for-upper-limbs-39957)).
 * Tenho muito interesse em me aprofundar nos estudos sobre acessibilidade no desenvolvimento de aplicativos web.
 * Meus animes preferidos são Cowboy Bebop e Samurai Champloo - See you space cowboy...
 * Sou entusiasta da trilogia de cinco livros do Douglas Adams - Don't Panic, 42
