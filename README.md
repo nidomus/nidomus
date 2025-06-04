@@ -12,7 +12,7 @@ Atualmente estou tabalhando na criação de um web app de Sudoku, um hobby que g
 ## Mais sobre
 
 * **Nome**: Herbert Fernandes de Oliveira
-* **Idade**: 23
+* **Idade**: 24
 * **Stack**: Vue - Nuxt - Django - Python - Bulma CSS
 * **Cargo Atual**: Desenvolvedor Full Stack
 
